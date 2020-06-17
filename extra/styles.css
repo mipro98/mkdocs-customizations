@@ -1,0 +1,51 @@
+/* disable footer */
+.md-footer-nav {
+  display: none;
+}
+
+/* headline bold and underline */
+.md-typeset h1 {
+  border-bottom: 1px solid #c6c6c6;
+}
+.md-typeset h2 {
+  font-weight: 600;
+  border-bottom: 1px solid #c6c6c6;
+}
+.md-typeset h3 {
+  font-weight: 600;
+}
+
+/* boxes around images */
+img {
+  box-shadow: 0px 0px 4px grey;
+}
+
+/* seperator between toc and content */
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+  border-left: 1px solid #c6c6c6;
+}
+
+/* make sidebar hover effect on background instead of text */
+.md-nav__link:focus, .md-nav__link:hover {
+  background-color: #00000014;
+  color: #000;
+}
+.md-nav__link {
+  margin: 0px;
+  padding: .3125em;
+  border-radius: 4px
+}
+.md-nav__title {
+  padding: 0 .81rem;
+}
+
+/* sidebar active entry bold */
+.md-nav__item .md-nav__link--active {
+  font-weight: 600;
+  color: var(--md-primary-fg-color); /* only required because of order when clicking on already active entry*/
+}
+
+/* better visibility for search results */
+.md-search-result em {
+  background-color: rgba(255,235,59,.5);
+}
