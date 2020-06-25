@@ -17,6 +17,7 @@ While the [mkdocs-material theme](https://github.com/squidfunk/mkdocs-material) 
 4. I underlined H1 and H2 headlines to quickly distinguish different sections while scrolling (fastly) through a page.
 5. I changed H2 and H3 to bold, again to make different sections more distinguishable while scrolling (fastly) through a page.
 6. I created a thin vertical line between the page content and the TOC to more easily detect the boundaries of a page
+7. I made Images more stand out with a slight drop shadow.
 
 
 
