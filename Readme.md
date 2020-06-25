@@ -14,7 +14,7 @@ While the [mkdocs-material theme](https://github.com/squidfunk/mkdocs-material) 
 1. I disabled the footer element for "next" and "previous" page.
 2. I changed the hover effect on elements in the navigation list and in the TOC to highlight the background of an entry rather than just the text (and also deleted the gap between the hitboxes of the links). Additionally, the active entry is now bold.
 3. I highlighted words in the search results to quickly see where the keyword appears in the previewed text.
-4. I underlined H1 and H2 headlines to quickly und distinguish different sections while scrolling (fastly) through a page.
+4. I underlined H1 and H2 headlines to quickly distinguish different sections while scrolling (fastly) through a page.
 5. I changed H2 and H3 to bold, again to make different sections more distinguishable while scrolling (fastly) through a page.
 6. I created a thin vertical line between the page content and the TOC to more easily detect the boundaries of a page
 
