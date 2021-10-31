@@ -52,7 +52,3 @@ The JavaScript customization just includes opening the "modify page" link (link 
     extra_javascript:
     - extra/javascript.js
     ```
-
-## That's ugly as ***!
-
-The goal was not to make `mkdocs-material` prettier but to make it easier to find content faster, especially when you use it very frequently as a (personal) knowledge base. I personally still find it pretty decently looking with some UX enhancements. Nobody is obliged to use it (not all people are equally pendantic about this).
